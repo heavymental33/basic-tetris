@@ -11,4 +11,9 @@ JS vanilla + CSS3 + HTML5
 
 
 
-#### Ajout pour les prochaines version
+#### Ajout pour les prochaines versions
+- Texture graphique pour les Tétrominos
+- Niveaux de difficulté
+- Système de combos
+- Animation des combos
+- Intégration du style (palette de couleur/font/boutons/musique)
