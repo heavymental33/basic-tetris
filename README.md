@@ -2,6 +2,7 @@
 
 
 Jeu de base Tétris inspiré du projet Code Tetris de freecodecamp.org
+JS vanilla + CSS3 + HTML5
 
 ### Version 1
 - Interface de base  (design à venir)
