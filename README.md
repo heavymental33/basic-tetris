@@ -7,7 +7,7 @@ JS vanilla + CSS3 + HTML5
 
 ### Version 1
 - Interface de base  (design à venir)
-- Algorithme de jeu fonctionnel mais a ammélioré
+- Algorithme de jeu fonctionnel mais à améliorer
 
 
 
